@@ -33,6 +33,9 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 # Contact: khmer-project@idyll.org
+
+from __future__ import print_function #Added to make this script compatible to Python 2
+
 import argparse
 import screed
 import sys
